@@ -6,7 +6,7 @@ In this exercise you will get more experience with objects.
 
 ## Setting up
 
-Create a new class called `FallingObjects`. If you are working in BlueJ, download [`Particle.class`](Particle.class) and save it into your lab9 project folder. Restart BlueJ and you will see the pre-compiled Particle class in your lab 9 window. Note that you will not be able to read the source code for this class.
+Create a new class called `FallingObjects`. Note that you must work in Visual Studio Code or IntelliJ. BlueJ will not work for this lab. 
 
 ## Background information
 
