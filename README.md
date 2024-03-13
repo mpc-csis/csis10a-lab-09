@@ -10,10 +10,10 @@
 
 ```sh
 # PartA
-mvn exec:java -Dexec.mainClass=PartA
+mvn compile exec:java "-Dexec.mainClass=PartA"
 ```
 
 ```sh
 # PartB
-mvn exec:java -Dexec.mainClass=PartBCanvas
+mvn compile exec:java "-Dexec.mainClass=PartBCanvas"
 ```
