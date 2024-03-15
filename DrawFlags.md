@@ -64,7 +64,7 @@ First run the program and observe the test oval that is printed. Change the `pai
 ```
 
 
-We will find it convenient to use a Rectangle to keep the information about the frame (outline) of the flag. You can create the frame using the statement   `Rectangle frame = new Rectangle(80, 50, 200, 130); `To draw the outline of the frame, use the `g.drawRect` command and feed it the values in your `frame `rectangle. In other words, `g.strokeRect(frame.getX(), frame.getY(), frame.getWidth(), frame.getHeight());` When you have this working, your graphics window should look something like
+We will find it convenient to use a Rectangle to keep the information about the frame (outline) of the flag. You can create the frame using the statement   `Rectangle frame = new Rectangle(80, 50, 200, 130); `To draw the outline of the frame, use the `g.strokeRect` command and feed it the values in your `frame `rectangle. In other words, `g.strokeRect(frame.getX(), frame.getY(), frame.getWidth(), frame.getHeight());` When you have this working, your graphics window should look something like
 this:
 
 ![Japan](src/site/assets/images/japan2.jpg)\
